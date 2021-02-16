@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "37d329594f5696a43d1e1a1524d4df4aec4160df",
+    "author": "taddallas <tdallas@uga.edu>",
+    "time": "2021-02-16 17:53:52",
+    "files": 3,
+    "merge": false,
+    "message": "small tweaks to urls caught by winbuild\n"
+  },
+  "remote": "https://github.com/ropensci/helminthR",
+  "pkg": "helminthR"
+}
