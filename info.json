@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "549957ab0b2a49bc580933d4aa6e1cc75436329f",
+    "author": "taddallas <tad.a.dallas@gmail.com>",
+    "time": "2022-12-08 17:09:50",
+    "files": 1,
+    "merge": false,
+    "message": "forgot to update version in DESCRIPTION\n"
+  },
+  "repo": "https://github.com/ropensci/helminthR",
+  "pkg": "helminthR"
+}
