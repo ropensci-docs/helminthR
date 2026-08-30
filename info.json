@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "02afebbb662009790a60d6df43df201b5ac0d739",
+    "author": "taddallas <tad.a.dallas@gmail.com>",
+    "time": "2025-09-04T14:13:45Z",
+    "files": 2,
+    "merge": false,
+    "message": "updated loadData to work\n"
+  },
+  "repo": "https://github.com/ropensci/helminthR",
+  "pkg": "helminthR",
+  "time": "2026-08-30T07:46:12Z"
+}
